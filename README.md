@@ -2,9 +2,9 @@
 A Power BI analysis of healthcare workforce supply, demographics, and growth trends across Canadian provinces and territories, 2020–2024.
 
 # Project Overview
-This project examines how Canada's healthcare workforce* has changed over a four-year period, with a focus on geographic distribution, demographic composition, and growth patterns.
+This project examines how Canada's healthcare workforce* has changed over a five-year period, with a focus on geographic distribution, demographic composition, and growth patterns.
 
-*This analysis covers four professions: Physicians, Physiotherapists, Psychologists, and Registered Nurses — selected for complete data availability across all provinces and years.
+*This analysis covers four professions: Physicians, Physiotherapists, Psychologists, and Registered Nurses; selected for complete data availability across all provinces and years.
 
 # Tools Used
 - Microsoft Excel (data structuring)
@@ -36,7 +36,5 @@ Tracks total workforce size, growth rate by profession, and year-over-year chang
 - Health Workforce Canada (2020-2024) Raw - CIHI dataset
 
 # Data Notes
-- All figures represent 4 professions only: Physicians, Physiotherapists, Psychologists, and Registered Nurses.
-Selected for complete data availability across all provinces and years. 
-- Northwest Territories and Nunavut report combined Registered Nurse counts under CIHI methodology; this affects per-capita rate comparisons for these two territories specifically, which was mentioned in the excel and the Power BI file.
+- Northwest Territories and Nunavut report combined Registered Nurse counts under CIHI methodology; this affects per-capita rate comparisons for these two territories specifically, which was documented in the Data_Note column of the cleaned dataset and referenced in dashboard tooltips.
 - Some demographic breakdowns (age, gender) contain suppressed or missing values for smaller provinces/territories, consistent with CIHI's privacy thresholds for small sample sizes.
