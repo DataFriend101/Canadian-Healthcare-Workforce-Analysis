@@ -11,20 +11,20 @@ This project examines how Canada's healthcare workforce* has changed over a four
 - Power BI (analysis and visualization)
 
 # Explanation of the Analysis and Visualization in Power BI
-*Canadian Healthcare Workforce Overview (Page 1):*
+**Canadian Healthcare Workforce Overview (Page 1):**
 Maps and ranks healthcare worker rates per 100,000 population across all provinces and territories, filterable by profession
 
-**Key finding:** Nunavut and Northwest Territories show the highest rates per capita of healthcare workers*, driven by small population denominators rather than abundant healthcare access
+*Key finding:* Nunavut and Northwest Territories show the highest rates per capita of healthcare workers*, driven by small population denominators rather than abundant healthcare access
 
-*Healthcare Workforce Demographics (Page 2):*
+**Healthcare Workforce Demographics (Page 2):**
 Explores age distribution and gender composition across the four professions
 
-**Key finding:** 350k workers are aged 60+, with Physicians and Psychologists showing the highest concentration of near-retirement professionals. Registered Nursing remains ~90% female and has stayed flat since 2020, while Physicians show a slow shift toward gender balance (43% → 47% female, 2020–2024).
+*Key finding:* 350k workers are aged 60+, with Physicians and Psychologists showing the highest concentration of near-retirement professionals. Registered Nursing remains ~90% female and has stayed flat since 2020, while Physicians show a slow shift toward gender balance (43% → 47% female, 2020–2024).
 
-*Healthcare Workforce Trends (2020–2024) (Page 3):*
+**Healthcare Workforce Trends (2020–2024) (Page 3):**
 Tracks total workforce size, growth rate by profession, and year-over-year change.
 
-**Key finding:** The workforce grew 10.92% from 2020 to 2024 (444K → 492K workers), with growth accelerating sharply in 2024. Physiotherapists showed the highest percentage growth (18.3%), though Registered Nurses added the most workers in absolute terms.
+*Key finding:* The workforce grew 10.92% from 2020 to 2024 (444K → 492K workers), with growth accelerating sharply in 2024. Physiotherapists showed the highest percentage growth (18.3%), though Registered Nurses added the most workers in absolute terms.
 
 # Data sources
 - Canadian Institute for Health Information (CIHI) — Health Workforce in Canada, 2020–2024
